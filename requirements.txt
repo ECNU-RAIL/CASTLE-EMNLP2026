@@ -1,0 +1,5 @@
+# OpenAI-compatible chat-completions client
+openai>=1.0,<3.0
+
+# Optional local environment-variable loading; `.env` is excluded from version control.
+python-dotenv>=1.0,<2.0
